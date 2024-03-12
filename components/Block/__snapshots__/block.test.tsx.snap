@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Block renders a Block 1`] = `
+<div>
+  <article
+    class="block notInView"
+  >
+    <div
+      class="squareBlock"
+    >
+      <div
+        class="square"
+      />
+      <div
+        class="line"
+      >
+        <div
+          class="squareLeft"
+        />
+        <div
+          class="squareRight"
+        />
+      </div>
+    </div>
+    <div
+      class="textBlock"
+    >
+      <div
+        class="blockHeader"
+      >
+        <div
+          class="title"
+        >
+          title
+        </div>
+        <h3
+          class="period"
+        >
+          period
+        </h3>
+      </div>
+      <p>
+        children
+      </p>
+    </div>
+  </article>
+</div>
+`;

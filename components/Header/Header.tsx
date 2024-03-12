@@ -13,6 +13,7 @@ const Header = async () => {
                 width={200}
                 height={300}
                 className={styles.img}
+                priority
             />
             
             <div className={styles.text}>
